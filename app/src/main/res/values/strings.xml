@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppSampah</string>
+    <string name="title">Paket 1 MINGGU</string>
+    <string name="description">Rp. 20.000</string>
+    <string name="title2">PAKET 2 MINGGU</string>
+    <string name="harga2">Rp. 40.000</string>
+    <string name="title3">PAKET 3 MINGGU</string>
+    <string name="harga3">Rp. 55.000</string>
+    <string name="title4">PAKET 1 BULAN</string>
+    <string name="harga4">Rp. 65.000</string>
+    <string name="konfirmasi">Apakah ANDA Yakin Mengambil Paket 1 MINGGU JIKUK SAMPAH ???</string>
+    <string name="terimakasih">Terimakasih Sudah Memilih Layanan Paketan di Jikuk Sampah</string>
+</resources>
